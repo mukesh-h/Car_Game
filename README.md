@@ -7,7 +7,7 @@
 * If you want to stop the car then type "stop".
 * Enjoy the game.
 
-###Script (language).
+### Script (language).
 * Python.
 
 ### Compiler (launches).
