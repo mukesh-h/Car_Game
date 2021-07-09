@@ -1,0 +1,16 @@
+name: " Upload Car_Game"
+script: "Python"
+build: "On Pycharm"
+Release:
+    type: [ public ]
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+   branches: [ master ]
+
+ steps:
+    - name: 'Enjoy the game'
+      run:  type command as your wish.
+    - name: 'Find error'
+      run : Go to pull request
